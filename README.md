@@ -96,4 +96,4 @@ portfolio-qa-akross/
 5. **Verifique no GitHub** se os links de download dos vídeos e documentos abrem corretamente no repositório público.
 
 ## Contato
-- Jefferson Paulo — [LinkedIn](https://www.linkedin.com/) | jefferson.paulo@email.com
+- Jefferson Paulo — [LinkedIn](https://www.linkedin.com/) | jefferson.p.barbosa23@gmail.com
