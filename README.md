@@ -1,6 +1,6 @@
 # Portfólio de QA – Akross
 
-![Banner](banner-qa-jefferson-paulo.png)
+![Banner do portfólio](banner-qa-jefferson-paulo.png)
 
 Portfólio completo de Qualidade para a solução Akross, cobrindo risco, acessibilidade (WCAG 2.1 AA), usabilidade e conformidade. Inclui plano de testes, matriz de risco, auditoria técnica, evidências em vídeo/GIF e recomendações acionáveis.
 
@@ -43,7 +43,7 @@ Portfólio completo de Qualidade para a solução Akross, cobrindo risco, acessi
 ## Demonstração
 ![Fluxo principal](docs/preview.gif)
 
-> GIF gerado a partir de `evidencia_mAFP0cta.mp4`, cobrindo login, navegação e verificações críticas de acessibilidade.
+> GIF gerado a partir de `evidencia_mAFP0cta.mp4`, abrangendo login, navegação e verificações críticas de acessibilidade.
 
 ## Links Rápidos
 - Vídeo compacto (base do GIF): [evidencia_mAFP0cta.mp4](evidencia_mAFP0cta.mp4)
