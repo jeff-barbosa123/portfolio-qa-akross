@@ -1,7 +1,7 @@
 # Portfólio de QA – Akross
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jeff-barbosa123/portfolio-qa-akross/main/banner-qa-jefferson-paulo.png" alt="Banner do portfólio" />
+  <img src="https://raw.githack.com/jeff-barbosa123/portfolio-qa-akross/main/banner-qa-jefferson-paulo.png" alt="Banner do portfólio" />
 </p>
 
 Portfólio completo de Qualidade para a solução Akross, cobrindo risco, acessibilidade (WCAG 2.1 AA), usabilidade e conformidade. Inclui plano de testes, matriz de risco, auditoria técnica, evidências em vídeo e recomendações acionáveis.
