@@ -38,18 +38,16 @@ Portfólio completo de Qualidade para a solução Akross, cobrindo risco, acessi
 - **Evidência em vídeo (compacta)**: `evidencia_mAFP0cta.mp4` (base do GIF)
 - **Evidência em vídeo (completa)**: `lighthouse.mp4`
 - **Evidência de ferramenta (Axe)**: `AxeDevTools.mp4`
-- **GIF da demonstração**: `docs/preview.gif`
 
 ## Demonstração
-![Fluxo principal](docs/preview.gif)
-
-> GIF gerado a partir de `evidencia_mAFP0cta.mp4`, abrangendo login, navegação e verificações críticas de acessibilidade.
+- Assista ao vídeo compacto: [evidencia_mAFP0cta.mp4](evidencia_mAFP0cta.mp4)  
+- Assista ao vídeo completo: [lighthouse.mp4](lighthouse.mp4)  
+- Evidência Axe (acessibilidade): [AxeDevTools.mp4](AxeDevTools.mp4)
 
 ## Links Rápidos
 - Vídeo compacto (base do GIF): [evidencia_mAFP0cta.mp4](evidencia_mAFP0cta.mp4)
 - Vídeo completo: [lighthouse.mp4](lighthouse.mp4)
 - Evidência Axe: [AxeDevTools.mp4](AxeDevTools.mp4)
-- GIF: [docs/preview.gif](docs/preview.gif)
 
 ## Guia Rápido
 1) Assista `evidencia_mAFP0cta.mp4` (ou `lighthouse.mp4` para o fluxo completo; `AxeDevTools.mp4` para evidência de ferramenta).  
@@ -72,9 +70,9 @@ Portfólio completo de Qualidade para a solução Akross, cobrindo risco, acessi
 ## Estrutura
 ```
 portfolio-qa-akross/
-├─ docs/                         # assets públicos (preview.gif)
+├─ docs/                         # assets públicos
 ├─ tools/ffmpeg/                 # ffmpeg portátil para refazer o GIF
-├─ evidencia_mAFP0cta.mp4        # vídeo compacto (base do GIF)
+├─ evidencia_mAFP0cta.mp4        # vídeo compacto
 ├─ lighthouse.mp4                # vídeo completo
 ├─ AxeDevTools.mp4               # evidência complementar (Axe)
 ├─ banner-qa-jefferson-paulo.png
